@@ -54,3 +54,5 @@ pnpm dev
 ```bash
 pnpm build
 ```
+
+### Enjoy your own Lightning Domain
